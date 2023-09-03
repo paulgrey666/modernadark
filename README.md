@@ -1,0 +1,2 @@
+# modernadark
+XFCE Dark Theme
