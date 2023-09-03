@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=0;x=963;y=33"/>
+      <property name="length" type="double" value="98.177083333333329"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="size" type="uint" value="45"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="26"/>
+        <value type="int" value="7"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
+        <value type="int" value="1"/>
+        <value type="int" value="6"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="10"/>
+        <value type="int" value="14"/>
+      </property>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.066666666666666666"/>
+        <value type="double" value="0.066666666666666666"/>
+        <value type="double" value="0.066666666666666666"/>
+        <value type="double" value="0.49803921568627452"/>
+      </property>
+      <property name="enter-opacity" type="uint" value="72"/>
+      <property name="leave-opacity" type="uint" value="45"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="length-adjust" type="bool" value="false"/>
+      <property name="enable-struts" type="bool" value="true"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="grouping" type="uint" value="1"/>
+      <property name="show-handle" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="true"/>
+      <property name="show-tooltips" type="bool" value="false"/>
+      <property name="sort-order" type="uint" value="2"/>
+      <property name="show-wireframes" type="bool" value="false"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="javaembeddedframe"/>
+        <value type="string" value="no network connection"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (71%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (62%)"/>
+        <value type="string" value="yad"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (82%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (65%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (60%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (68%)"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (72%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (73%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (66%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (69%)"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (70%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (74%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (78%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (76%)"/>
+        <value type="string" value="wi-fi network connection “galaxy-s10” active: galaxy-s10 (67%)"/>
+        <value type="string" value="firewall-applet"/>
+        <value type="string" value="ethernet network connection “wired connection 1” active"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="firewall-applet"/>
+      </property>
+      <property name="symbolic-icons" type="bool" value="true"/>
+      <property name="icon-size" type="int" value="0"/>
+      <property name="hidden-legacy-items" type="array">
+        <value type="string" value="yad"/>
+        <value type="string" value="javaembeddedframe"/>
+        <value type="string" value="firewall-applet"/>
+      </property>
+      <property name="single-row" type="bool" value="true"/>
+      <property name="hidden-items" type="array">
+        <value type="string" value="firewall-applet"/>
+      </property>
+      <property name="menu-is-primary" type="bool" value="true"/>
+      <property name="hide-new-items" type="bool" value="false"/>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="firefox.instance105835;firefox.instance12468;firefox.instance125862;firefox.instance1641;firefox.instance1666;firefox.instance1929;firefox.instance2109;firefox.instance224103;firefox.instance2323;firefox.instance2328;firefox.instance2342;firefox.instance2617;firefox.instance2833;firefox.instance2951;firefox.instance3156;firefox.instance34958;firefox.instance384563;firefox.instance3914;firefox.instance41574;firefox.instance4569;firefox.instance46482;firefox.instance7335;firefox.instance81953;firefox.instance862;firefox.instance865;firefox.instance867;firefox.instance868;firefox.instance889;firefox.instance97369;firefox.instance98241;qutebrowser.instance25383;qutebrowser.instance2708;qutebrowser.instance3608"/>
+      <property name="known-players" type="string" value="Firefox"/>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-10" type="string" value="notification-plugin"/>
+    <property name="plugin-14" type="string" value="actions">
+      <property name="button-title" type="uint" value="0"/>
+      <property name="appearance" type="uint" value="0"/>
+      <property name="items" type="array">
+        <value type="string" value="-lock-screen"/>
+        <value type="string" value="-switch-user"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="-suspend"/>
+        <value type="string" value="-hibernate"/>
+        <value type="string" value="-hybrid-sleep"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="-restart"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="-logout"/>
+        <value type="string" value="+logout-dialog"/>
+        <value type="string" value="+shutdown"/>
+      </property>
+    </property>
+    <property name="plugin-26" type="string" value="whiskermenu"/>
+    <property name="plugin-1" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
+    </property>
+    <property name="plugin-5" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16843495861.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-4" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16849499242.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-7" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16849498861.desktop"/>
+      </property>
+    </property>
+  </property>
+</channel>
