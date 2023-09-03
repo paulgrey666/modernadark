@@ -1,0 +1,31 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>xfce-settings</Name>
+    <Directory>xfce-settings.directory</Directory>
+    <Include>
+        <Filename>blueman-manager.desktop</Filename>
+        <Filename>thunar-settings.desktop</Filename>
+        <Filename>xfce-keyboard-settings.desktop</Filename>
+        <Filename>xfce-display-settings.desktop</Filename>
+        <Filename>xfce-session-settings.desktop</Filename>
+        <Filename>yad-settings.desktop</Filename>
+        <Filename>xfce4-power-manager-settings.desktop</Filename>
+        <Filename>xfce-settings-manager.desktop</Filename>
+        <Filename>nvidia-settings.desktop</Filename>
+        <Filename>firewall-config.desktop</Filename>
+        <Filename>xfce-ui-settings.desktop</Filename>
+        <Filename>menulibre.desktop</Filename>
+        <Filename>xfce4-accessibility-settings.desktop</Filename>
+        <Filename>blueman-adapters.desktop</Filename>
+        <Filename>pavucontrol.desktop</Filename>
+        <Filename>panel-preferences.desktop</Filename>
+        <Filename>qt5ct.desktop</Filename>
+        <Filename>xfce4-settings-editor.desktop</Filename>
+        <Filename>xfce-wm-settings.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>

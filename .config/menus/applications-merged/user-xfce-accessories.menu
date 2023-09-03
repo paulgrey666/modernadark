@@ -1,0 +1,32 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>xfce-accessories</Name>
+    <Directory>xfce-accessories.directory</Directory>
+    <Include>
+        <Filename>xfce4-appfinder.desktop</Filename>
+        <Filename>org.gnome.FileRoller.desktop</Filename>
+        <Filename>org.gnome.gedit.desktop</Filename>
+        <Filename>thunar-bulk-rename.desktop</Filename>
+        <Filename>org.gnome.DiskUtility.desktop</Filename>
+        <Filename>dbx_preference.desktop</Filename>
+        <Filename>DockX.desktop</Filename>
+        <Filename>thunar.desktop</Filename>
+        <Filename>nemo.desktop</Filename>
+        <Filename>xfce4-terminal-emulator.desktop</Filename>
+        <Filename>xed.desktop</Filename>
+        <Filename>xfce4-about.desktop</Filename>
+        <Filename>org.gnome.Nautilus.desktop</Filename>
+        <Filename>xfce4-screenshooter.desktop</Filename>
+        <Filename>stoken-gui-small.desktop</Filename>
+        <Filename>stoken-gui.desktop</Filename>
+        <Filename>galculator.desktop</Filename>
+        <Filename>kvantummanager.desktop</Filename>
+        <Filename>menulibre.desktop</Filename>
+        <Filename>xfce4-taskmanager.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>

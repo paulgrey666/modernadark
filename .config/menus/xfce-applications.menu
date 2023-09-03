@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Xfce</Name>
+	<DefaultAppDirs />
+	<DefaultDirectoryDirs />
+	<DefaultMergeDirs />
+	<Include>
+		<Category>X-Xfce-Toplevel</Category>
+	</Include>
+	<MergeFile type="parent">/etc/xdg/menus/xfce-applications.menu</MergeFile>
+	<Menu>
+		<Name>Accessories</Name>
+		<Directory>xfce-accessories.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xfce4-about.desktop</Filename>
+			<Filename>xfce4-appfinder.desktop</Filename>
+			<Filename>org.gnome.FileRoller.desktop</Filename>
+			<Filename>thunar-bulk-rename.desktop</Filename>
+			<Filename>org.gnome.DiskUtility.desktop</Filename>
+			<Filename>galculator.desktop</Filename>
+			<Filename>org.gnome.gedit.desktop</Filename>
+			<Filename>menulibre.desktop</Filename>
+			<Filename>org.gnome.Nautilus.desktop</Filename>
+			<Filename>nemo.desktop</Filename>
+			<Filename>xfce4-taskmanager.desktop</Filename>
+			<Filename>xfce4-terminal-emulator.desktop</Filename>
+			<Filename>xed.desktop</Filename>
+			<Filename>thunar.desktop</Filename>
+			<Filename>dbx_preference.desktop</Filename>
+			<Filename>DockX.desktop</Filename>
+			<Filename>xfce4-screenshooter.desktop</Filename>
+			<Filename>stoken-gui-small.desktop</Filename>
+			<Filename>stoken-gui.desktop</Filename>
+			<Filename>kvantummanager.desktop</Filename>
+			<Filename>xfce4-run.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Network</Name>
+		<Directory>xfce-network.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>bssh1.desktop</Filename>
+			<Filename>bvnc1.desktop</Filename>
+			<Filename>firefox.desktop</Filename>
+			<Filename>xfce4-mail-reader.desktop</Filename>
+			<Filename>xfce4-web-browser.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Graphics</Name>
+		<Directory>xfce-graphics.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>gimp.desktop</Filename>
+			<Filename>org.xfce.ristretto.desktop</Filename>
+			<Filename>org.inkscape.Inkscape.desktop</Filename>
+			<Filename>xdg-draw.desktop</Filename>
+			<Filename>xsane.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Office</Name>
+		<Directory>xfce-office.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xdg-base.desktop</Filename>
+			<Filename>xdg-calc.desktop</Filename>
+			<Filename>xdg-draw.desktop</Filename>
+			<Filename>xdg-impress.desktop</Filename>
+			<Filename>xdg-math.desktop</Filename>
+			<Filename>xdg-startcenter.desktop</Filename>
+			<Filename>xdg-writer.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Development</Name>
+		<Directory>xfce-development.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>cmake-gui.desktop</Filename>
+			<Filename>yad-icon-browser.desktop</Filename>
+			<Filename>org.gnome.Meld.desktop</Filename>
+			<Filename>pycharm.desktop</Filename>
+			<Filename>assistant.desktop</Filename>
+			<Filename>designer.desktop</Filename>
+			<Filename>linguist.desktop</Filename>
+			<Filename>qdbusviewer.desktop</Filename>
+			<Filename>org.gtk.Demo4.desktop</Filename>
+			<Filename>org.gtk.IconBrowser4.desktop</Filename>
+			<Filename>org.gtk.gtk4.NodeEditor.desktop</Filename>
+			<Filename>org.gtk.PrintEditor4.desktop</Filename>
+			<Filename>org.gtk.WidgetFactory4.desktop</Filename>
+			<Filename>assistant-qt4.desktop</Filename>
+			<Filename>designer-qt4.desktop</Filename>
+			<Filename>linguist-qt4.desktop</Filename>
+			<Filename>qdbusviewer-qt4.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Multimedia</Name>
+		<Directory>xfce-multimedia.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>org.xfce.Parole.desktop</Filename>
+			<Filename>pavucontrol.desktop</Filename>
+			<Filename>qv4l2.desktop</Filename>
+			<Filename>qvidcap.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Science</Name>
+		<Directory>xfce-science.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xdg-math.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Settings</Name>
+		<Directory>xfce-settings.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Menu>
+			<Name>Screensavers</Name>
+			<Directory>xfce-screensavers.directory</Directory>
+			<Layout>
+				<Merge type="menus" />
+				<Merge type="files" />
+			</Layout>
+		</Menu>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xfce-settings-manager.desktop</Filename>
+			<Separator />
+			<Filename>xfce4-accessibility-settings.desktop</Filename>
+			<Filename>xfce-ui-settings.desktop</Filename>
+			<Filename>blueman-adapters.desktop</Filename>
+			<Filename>blueman-manager.desktop</Filename>
+			<Filename>xfce4-color-settings.desktop</Filename>
+			<Filename>xfce4-mime-settings.desktop</Filename>
+			<Filename>xfce-backdrop-settings.desktop</Filename>
+			<Filename>xfce-display-settings.desktop</Filename>
+			<Filename>thunar-settings.desktop</Filename>
+			<Filename>firewall-config.desktop</Filename>
+			<Filename>xfce-keyboard-settings.desktop</Filename>
+			<Filename>kvantummanager.desktop</Filename>
+			<Filename>menulibre.desktop</Filename>
+			<Filename>xfce-mouse-settings.desktop</Filename>
+			<Filename>xfce4-notifyd-config.desktop</Filename>
+			<Filename>nvidia-settings.desktop</Filename>
+			<Filename>panel-preferences.desktop</Filename>
+			<Filename>xfce4-power-manager-settings.desktop</Filename>
+			<Filename>pavucontrol.desktop</Filename>
+			<Filename>qt5ct.desktop</Filename>
+			<Filename>thunar-volman-settings.desktop</Filename>
+			<Filename>xfce4-screensaver-preferences.desktop</Filename>
+			<Menuname>Screensavers</Menuname>
+			<Filename>xfce-session-settings.desktop</Filename>
+			<Filename>xfce4-settings-editor.desktop</Filename>
+			<Filename>xfce-wm-settings.desktop</Filename>
+			<Filename>xfce-wmtweaks-settings.desktop</Filename>
+			<Filename>xfce-workspaces-settings.desktop</Filename>
+			<Filename>xfce4-terminal-settings.desktop</Filename>
+			<Filename>yad-settings.desktop</Filename>
+			<Filename>qtconfig-qt4.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>System</Name>
+		<Directory>xfce-system.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>conky.desktop</Filename>
+			<Filename>firewall-config.desktop</Filename>
+			<Filename>gparted.desktop</Filename>
+			<Filename>grsync.desktop</Filename>
+			<Filename>lstopo.desktop</Filename>
+			<Filename>xfce4-session-logout.desktop</Filename>
+			<Filename>xfce4-taskmanager.desktop</Filename>
+			<Filename>thunar.desktop</Filename>
+			<Filename>com.gexperts.Tilix.desktop</Filename>
+			<Filename>xfce4-terminal.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Games</Name>
+		<Directory>xfce-games.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>eos-update-notifier-configure.desktop</Filename>
+			<Filename>avahi-discover1.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>xfce-education.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xdg-math.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Other</Name>
+		<Directory>xfce-other.directory</Directory>
+		<DirectoryDir>/home/paulgrey/.local/share/desktop-directories</DirectoryDir>
+		<Include>
+			<Filename>gcr-prompter.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>nemo-autorun-software.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>panel-desktop-handler.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>gnome-disk-image-mounter.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>gnome-disk-image-writer.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>google-maps-geo-handler.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>org.kde.kwalletd5.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>ktelnetservice5.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>nm-applet.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>openstreetmap-geo-handler.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>qwant-maps-geo-handler.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>nautilus-autorun-software.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>gcr-viewer.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>wheelmap-geo-handler.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>xsltfilter.desktop</Filename>
+		</Include>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>gcr-prompter.desktop</Filename>
+			<Filename>nemo-autorun-software.desktop</Filename>
+			<Filename>panel-desktop-handler.desktop</Filename>
+			<Filename>gnome-disk-image-mounter.desktop</Filename>
+			<Filename>gnome-disk-image-writer.desktop</Filename>
+			<Filename>google-maps-geo-handler.desktop</Filename>
+			<Filename>org.kde.kwalletd5.desktop</Filename>
+			<Filename>ktelnetservice5.desktop</Filename>
+			<Filename>nm-applet.desktop</Filename>
+			<Filename>openstreetmap-geo-handler.desktop</Filename>
+			<Filename>qwant-maps-geo-handler.desktop</Filename>
+			<Filename>nautilus-autorun-software.desktop</Filename>
+			<Filename>gcr-viewer.desktop</Filename>
+			<Filename>wheelmap-geo-handler.desktop</Filename>
+			<Filename>xdg-xsltfilter.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Layout>
+		<Filename>xfce4-run.desktop</Filename>
+		<Separator />
+		<Separator />
+		<Menuname>Accessories</Menuname>
+		<Menuname>Network</Menuname>
+		<Menuname>Graphics</Menuname>
+		<Menuname>Office</Menuname>
+		<Menuname>Development</Menuname>
+		<Separator />
+		<Menuname>Multimedia</Menuname>
+		<Menuname>Science</Menuname>
+		<Menuname>Settings</Menuname>
+		<Menuname>System</Menuname>
+		<Menuname>Games</Menuname>
+		<Separator />
+		<Filename>xfce4-web-browser.desktop</Filename>
+		<Filename>xfce4-mail-reader.desktop</Filename>
+		<Filename>xfce4-terminal-emulator.desktop</Filename>
+		<Menuname>Education</Menuname>
+		<Menuname>Other</Menuname>
+		<Filename>xfce4-about.desktop</Filename>
+		<Filename>xfce4-session-logout.desktop</Filename>
+	</Layout>
+</Menu>

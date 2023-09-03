@@ -1,0 +1,26 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>xfce-development</Name>
+    <Directory>xfce-development.directory</Directory>
+    <Include>
+        <Filename>yad-icon-browser.desktop</Filename>
+        <Filename>org.gtk.IconBrowser4.desktop</Filename>
+        <Filename>assistant.desktop</Filename>
+        <Filename>designer.desktop</Filename>
+        <Filename>linguist.desktop</Filename>
+        <Filename>qdbusviewer.desktop</Filename>
+        <Filename>assistant-qt4.desktop</Filename>
+        <Filename>designer-qt4.desktop</Filename>
+        <Filename>linguist-qt4.desktop</Filename>
+        <Filename>qdbusviewer-qt4.desktop</Filename>
+        <Filename>org.gtk.PrintEditor4.desktop</Filename>
+        <Filename>org.gtk.WidgetFactory4.desktop</Filename>
+        <Filename>org.gtk.Demo4.desktop</Filename>
+        <Filename>org.gtk.gtk4.NodeEditor.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>

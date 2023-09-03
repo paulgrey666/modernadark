@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>xfce-system</Name>
+    <Directory>xfce-system.directory</Directory>
+    <Include>
+        <Filename>xfce4-taskmanager.desktop</Filename>
+        <Filename>thunar.desktop</Filename>
+        <Filename>firewall-config.desktop</Filename>
+        <Filename>conky.desktop</Filename>
+        <Filename>com.gexperts.Tilix.desktop</Filename>
+        <Filename>lstopo.desktop</Filename>
+        <Filename>grsync.desktop</Filename>
+        <Filename>gparted.desktop</Filename>
+        <Filename>avahi-discover1.desktop</Filename>
+        <Filename>eos-update-notifier-configure.desktop</Filename>
+        <Filename>xfce4-session-logout.desktop</Filename>
+        <Filename>xfce4-terminal.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>
