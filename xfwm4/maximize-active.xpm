@@ -1,0 +1,34 @@
+/* XPM */
+static char *maximize_active[] = {
+/* columns rows colors chars-per-pixel */
+"15 16 12 1 ",
+"  c #434C5E",
+". c #4B5465",
+"X c #4F5869",
+"o c #626A79",
+"O c #686F7E",
+"+ c #727986",
+"@ c #9196A1",
+"# c #9A9FA9",
+"$ c #A1A5AF",
+"% c #B8BBC2",
+"& c #BEC1C8",
+"* c #D3D8E0",
+/* pixels */
+"***************",
+"               ",
+"               ",
+"               ",
+"               ",
+"               ",
+"     X+++X     ",
+"     O%@%O     ",
+"     O# #O     ",
+"     O&$&O     ",
+"     .ooo.     ",
+"               ",
+"               ",
+"               ",
+"               ",
+"               "
+};
